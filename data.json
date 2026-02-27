@@ -1,0 +1,35 @@
+{
+  "profile": {
+    "name": "Uddesya Nepal",
+    "title": "Web Developer & Tech Enthusiast",
+    "location": "India",
+    "email": "uddesya@email.com"
+  },
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Python",
+    "MySQL"
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Portfolio Website",
+      "description": "Personal responsive portfolio website.",
+      "tech": ["HTML", "CSS", "JavaScript"],
+      "github": "https://github.com/uddesyanepal"
+    },
+    {
+      "id": 2,
+      "name": "Student Management System",
+      "description": "System to manage student records.",
+      "tech": ["Node.js", "MySQL"],
+      "github": "https://github.com/uddesyanepal"
+    }
+  ],
+  "social": {
+    "github": "https://github.com/uddesyanepal",
+    "linkedin": "https://linkedin.com/in/uddesyanepal"
+  }
+}
